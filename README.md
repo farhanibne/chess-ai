@@ -1,4 +1,4 @@
-# Cheap AI Chess!
+# Chess ai 
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/farhanibne/pen/qBoKpyE](https://codepen.io/farhanibne/pen/qBoKpyE).
 
